@@ -1,1 +1,1 @@
-# apigifs
+# GIF API\nColoque seus GIFs em public/gifs/{hug,kiss,slap}/{hm,mm,hh}.
